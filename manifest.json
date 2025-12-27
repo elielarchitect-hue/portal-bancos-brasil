@@ -1,0 +1,22 @@
+
+{
+  "short_name": "Portal Bancos",
+  "name": "Portal de Acesso a Bancos",
+  "description": "Acesso rápido e seguro aos principais bancos do Brasil.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#111827"
+}

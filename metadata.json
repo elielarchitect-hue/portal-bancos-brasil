@@ -1,0 +1,5 @@
+{
+  "name": "Portal de Acesso a Bancos Brasileiros",
+  "description": "Uma aplicação web de acesso rápido que fornece links diretos para os principais bancos do Brasil. Cada banco é representado pelo seu logo, permitindo aos usuários acessar o site oficial com um único clique.",
+  "requestFramePermissions": []
+}
